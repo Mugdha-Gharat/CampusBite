@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Smart Canteen — Pre-Order & Digital Queue Management System
 
 A VS Code-ready web application built with **HTML, CSS, vanilla JavaScript, Python (Flask), and SQL (SQLite for local development)**. Docker packaging, GitHub Actions CI, and Kubernetes manifests are included. It is intended as a college project/demo and can be extended to a managed database for production.
@@ -117,3 +118,26 @@ python -m pytest -q
 # CampusBite
 CampusBite is a Smart Canteen Management System for online food ordering, digital tokens, live order tracking, and notifications. Built with HTML, CSS, JavaScript, Python Flask, and SQLite, it includes student, staff, and admin dashboards, with Jira for Agile management and Jenkins for automated testing.
 >>>>>>> 213ee5cf047e1750dbac3c719dab8be7922ec639
+=======
+# CampusBite - Smart Canteen Management System
+
+CampusBite is an Agile Software Development and DevOps mini-project that simplifies campus food ordering and canteen management.
+
+## Features
+- Student registration and login
+- Browse food menu and place orders
+- Digital order tokens
+- Order tracking and notifications
+- Staff dashboard for managing orders
+- Admin dashboard
+
+## Technologies Used
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python Flask
+- Database: SQLite
+
+## Project Tools
+- Jira: Agile planning and sprint management
+- GitHub: Version control and collaboration
+- Jenkins: Continuous integration and automated testing
+>>>>>>> 1461d129ee3965d78e128b8f7b93d413e5fe268d
