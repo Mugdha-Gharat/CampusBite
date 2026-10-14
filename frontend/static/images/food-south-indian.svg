@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0e8"/><stop offset="1" stop-color="#ffffff"/></linearGradient></defs>
+<rect width="800" height="520" rx="36" fill="url(#g)"/>
+<circle cx="650" cy="95" r="130" fill="#ea580c" opacity=".10"/><circle cx="130" cy="450" r="160" fill="#ea580c" opacity=".08"/>
+<text x="70" y="120" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#ea580c">CAMPUSBITE</text>
+<text x="70" y="170" font-family="Arial, sans-serif" font-size="48" font-weight="800" fill="#182230">South Indian</text>
+<text x="70" y="215" font-family="Arial, sans-serif" font-size="23" fill="#667085">Freshly prepared on campus</text>
+<text x="400" y="395" text-anchor="middle" font-size="190">🥘</text>
+<rect x="70" y="255" width="190" height="46" rx="23" fill="#ea580c" opacity=".12"/>
+<text x="165" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#ea580c">ORDER NOW</text>
+</svg>
